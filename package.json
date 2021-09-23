@@ -1,0 +1,22 @@
+{
+    "id": "com.alanmacdougall.underscore",
+    "name": "Underscore",
+    "url": "https://github.com/amacdougall/underscore.as",
+    "docUrl": "https://alanmacdougall.com/technical-writing/2012-03-09-introducing-underscore-dot-as/",
+    "description": "An Actionscript 3 port of underscore.js.",
+    "sourceUrl": "https://github.com/j3k0/underscore.as/releases/download/v1.3.3/com.alanmacdougall.underscore_1.3.3.airpackage",
+    "type": "src",
+    "version": "1.3.3",
+    "license": {
+        "type": "MIT",
+        "public": true
+    },
+    "dependencies": [],
+    "parameters": [],
+    "tags": [
+        "fovea",
+        "underscore",
+        "javascript",
+        "port"
+    ]
+}
